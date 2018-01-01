@@ -17,12 +17,6 @@ RoadMap
 * ~~滤镜叠加功能(已完成)~~
 * ~~遮罩功能(已完成)~~
 
-About Me
---
-* Blog: [Half Lab](http://www.halflab.me)
-* Email: shawn0326@163.com
-* Weibo: [@谢帅shawn](http://weibo.com/shawn0326)
-
 Git:
 --
 * [github] https://github.com/shawn0326/zen.js
