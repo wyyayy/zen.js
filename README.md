@@ -17,11 +17,6 @@ RoadMap
 * ~~滤镜叠加功能(已完成)~~
 * ~~遮罩功能(已完成)~~
 
-Git:
---
-* [github] https://github.com/shawn0326/zen.js
-* [coding] https://coding.net/u/shawn0326/p/zen.js/git
-
 Demos:
 --
 * http://shawn0326.coding.me/zen.js/test
